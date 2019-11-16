@@ -13,6 +13,6 @@ Mobile
 React-Native
 
 <img src="login.jpg" />
-<img src="mobile.jpg" />
+<img src="mobile.jpeg" />
 <img src="dash.jpg" />
 <img src="new.jpg" />
